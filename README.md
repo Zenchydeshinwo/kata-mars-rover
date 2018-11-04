@@ -51,7 +51,6 @@ Fill in this logic in the moveForward function. After each movement, console.log
 Iteration 4 | Commands
 
 Create a function that receives a list of commands. These commands will be the first letter of either (f)orward, (r)ight, or (l)eft.
-
 To test it, use the string: ‘rffrfflfrff’.
 
 Iteration 5 | Tracking
